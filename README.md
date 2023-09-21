@@ -1,1 +1,2 @@
-### Influencer_Network_Modelling
+
+Network analysis to map out influencers for Youtube Japan 
